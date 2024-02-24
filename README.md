@@ -31,8 +31,8 @@ To start betting on BetN, follow these simple steps:
 For support, questions, or feedback, please reach out to us through the following channels:
 
 -   **Email:** support@betn.io
--   **Twitter:** [@BetNOfficial](https://twitter.com/betnfinance)
--   **Telegram:** [BetN Community](https://t.me/betnfinance)
+-   **Twitter:** [@betnfinance](https://twitter.com/betnfinance)
+-   **Telegram:** [BetNFinance](https://t.me/betnfinance)
 
 Join our community to stay updated on the latest news, events, and promotions!
 
